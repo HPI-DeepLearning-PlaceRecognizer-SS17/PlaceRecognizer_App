@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlaceRecognizer</string>
+
+    <string name="take_picture">Take Picture</string>
+    <string name="open_gallery">Gallery</string>
+    <string name="recognize_building">Recognize Building</string>
+    <string name="default_nothing">Nothing</string>
+</resources>
